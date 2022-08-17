@@ -11,7 +11,7 @@ ProtectSystem=full
 PrivateDevices=true
 NoNewPrivileges=true
 WorkingDirectory=/opt/minecraft
-ExecStart=/usr/bin/java -Xmx5120M -Xms1024M -jar server.jar nogui
+ExecStart=/opt/minecraft/uwucrafter start
 ExecStop=/usr/bin/mcrcon -H owo.uwussi.moe -P 25575 -p "$RCONPASS" stop
 
 [Install]

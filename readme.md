@@ -8,4 +8,4 @@ synchronise all my changes.
 Don't forget to read the rules of my server to avoid getting banned
 all of sudden. Rules are located at [rules](https://www.uwussi.moe/minecraft/rules) page.
 
-> Join me at owo.uwussi.moe
+<p align="center"><h3 align="center">Join me at owo.uwussi.moe</h3></p>
