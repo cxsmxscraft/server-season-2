@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-22 16:39:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-19 14:53:19 +0200"
@@ -1343,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2022-08-22 16:35:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-08-19 17:36:47 +0200"
@@ -1400,7 +1412,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-08-20 10:02:53 +0200",
-      "minecraft:nether_wastes": "2022-08-22 14:44:24 +0200"
+      "minecraft:nether_wastes": "2022-08-22 14:44:24 +0200",
+      "minecraft:soul_sand_valley": "2022-08-22 16:57:41 +0200"
     },
     "done": false
   },
