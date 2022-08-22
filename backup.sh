@@ -11,12 +11,6 @@ echo Sending signals to the server
 rcon "save-off"
 rcon "save-all"
 
-echo "Stopping minecraft server"
-sudo systemctl stop minecraft
-
-echo "Waiting for minecraft service to die"
-sleep 10
-
 # Uploading Git Changes
 if [ "$(git status --porcelain)" ]; then
 	echo "There are changes in the data folder. Committing them..."
