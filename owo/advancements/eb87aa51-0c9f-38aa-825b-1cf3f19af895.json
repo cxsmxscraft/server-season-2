@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2022-08-22 17:03:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2022-08-17 15:05:00 +0200"
@@ -1237,6 +1243,7 @@
       "minecraft:old_growth_spruce_taiga": "2022-08-19 17:53:29 +0200",
       "minecraft:flower_forest": "2022-08-17 14:42:03 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-21 14:30:29 +0200",
+      "minecraft:meadow": "2022-08-22 17:02:50 +0200",
       "minecraft:plains": "2022-08-17 14:38:45 +0200"
     },
     "done": false
@@ -1331,6 +1338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-08-22 17:03:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-17 14:38:59 +0200"
@@ -1340,6 +1353,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2022-08-20 10:26:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2022-08-22 17:03:35 +0200"
     },
     "done": true
   },
@@ -1763,6 +1782,7 @@
       "baked_potato": "2022-08-19 19:00:31 +0200",
       "porkchop": "2022-08-17 14:45:28 +0200",
       "apple": "2022-08-17 14:50:42 +0200",
+      "cooked_cod": "2022-08-22 17:14:51 +0200",
       "mutton": "2022-08-19 12:53:57 +0200",
       "bread": "2022-08-21 16:30:30 +0200",
       "rotten_flesh": "2022-08-17 14:48:25 +0200",
