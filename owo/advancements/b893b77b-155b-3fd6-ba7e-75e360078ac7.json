@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2022-08-23 12:15:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-08-19 12:42:01 +0200"
@@ -1729,6 +1735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2022-08-23 12:39:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-08-19 11:52:45 +0200"
@@ -1743,6 +1755,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-08-23 12:24:38 +0200",
       "chicken": "2022-08-19 11:53:35 +0200",
       "cooked_mutton": "2022-08-19 12:39:05 +0200",
       "sweet_berries": "2022-08-21 13:09:01 +0200",
@@ -2101,6 +2114,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-19 11:59:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2022-08-23 12:39:48 +0200"
     },
     "done": true
   },
