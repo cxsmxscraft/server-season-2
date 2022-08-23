@@ -1285,6 +1285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-08-23 16:56:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-08-19 12:06:43 +0200"
@@ -1764,6 +1770,7 @@
       "beef": "2022-08-19 12:07:46 +0200",
       "baked_potato": "2022-08-22 17:21:09 +0200",
       "porkchop": "2022-08-19 11:54:01 +0200",
+      "beetroot_soup": "2022-08-23 17:03:05 +0200",
       "apple": "2022-08-21 11:40:12 +0200",
       "mutton": "2022-08-19 11:52:28 +0200",
       "bread": "2022-08-21 17:31:07 +0200",
@@ -2205,6 +2212,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-20 12:18:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-08-23 16:50:23 +0200"
     },
     "done": true
   },
