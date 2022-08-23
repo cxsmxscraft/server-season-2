@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-08-20 12:48:50 +0200"
@@ -146,6 +152,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2022-08-21 03:37:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-23 20:19:43 +0200"
     },
     "done": true
   },
@@ -188,6 +200,12 @@
   "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
       "has_purpur_block": "2022-08-23 17:45:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
     },
     "done": true
   },
@@ -254,6 +272,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 12:49:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
     },
     "done": true
   },
@@ -643,6 +667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2022-08-20 12:49:46 +0200"
@@ -1021,6 +1051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-08-20 12:45:02 +0200"
@@ -1125,6 +1161,7 @@
       "minecraft:birch_forest": "2022-08-20 13:00:28 +0200",
       "minecraft:windswept_hills": "2022-08-20 13:04:54 +0200",
       "minecraft:bamboo_jungle": "2022-08-20 19:37:44 +0200",
+      "minecraft:savanna_plateau": "2022-08-23 20:34:44 +0200",
       "minecraft:beach": "2022-08-20 12:42:45 +0200",
       "minecraft:dark_forest": "2022-08-20 13:01:03 +0200",
       "minecraft:sparse_jungle": "2022-08-20 19:37:41 +0200",
@@ -2069,6 +2106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-08-20 19:59:09 +0200"
@@ -2108,6 +2151,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-08-20 12:58:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
     },
     "done": true
   },
@@ -2531,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2022-08-20 19:29:11 +0200"
@@ -2639,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-08-23 20:31:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 12:58:07 +0200"
@@ -2738,6 +2799,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-08-20 19:29:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-08-23 20:33:22 +0200"
     },
     "done": true
   },
