@@ -1542,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 18:06:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-20 12:53:17 +0200"
@@ -1649,6 +1655,7 @@
       "cooked_porkchop": "2022-08-20 12:57:53 +0200",
       "chicken": "2022-08-20 19:27:44 +0200",
       "cooked_beef": "2022-08-21 03:50:43 +0200",
+      "chorus_fruit": "2022-08-23 18:06:16 +0200",
       "baked_potato": "2022-08-21 23:41:32 +0200",
       "beef": "2022-08-23 00:33:44 +0200",
       "porkchop": "2022-08-20 15:16:08 +0200",
@@ -2236,6 +2243,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 18:06:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 18:06:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 12:58:07 +0200"
@@ -2584,6 +2603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 18:06:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-08-20 12:49:35 +0200"
@@ -2635,6 +2660,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2022-08-23 17:13:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-08-23 18:06:05 +0200"
     },
     "done": true
   },
