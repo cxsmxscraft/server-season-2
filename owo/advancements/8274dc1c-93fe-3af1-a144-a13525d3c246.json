@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-21 07:49:47 +0200"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-19 19:45:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
     },
     "done": true
   },
@@ -194,6 +206,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2022-08-17 16:11:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
     },
     "done": true
   },
@@ -332,9 +350,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-08-25 06:06:33 +0200",
+      "sweet_berries": "2022-08-25 11:07:10 +0200",
       "cooked_beef": "2022-08-25 06:25:28 +0200",
       "porkchop": "2022-08-21 11:59:58 +0200",
       "apple": "2022-08-19 20:44:32 +0200",
+      "potato": "2022-08-25 11:10:05 +0200",
       "golden_apple": "2022-08-25 05:56:45 +0200",
       "glow_berries": "2022-08-21 12:45:55 +0200",
       "cooked_chicken": "2022-08-25 05:54:16 +0200"
@@ -833,6 +853,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-08-25 11:09:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2022-08-19 20:14:41 +0200"
@@ -884,6 +916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-08-25 11:09:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2022-08-20 05:49:23 +0200"
@@ -923,6 +961,12 @@
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
     },
     "done": true
   },
@@ -1034,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-08-25 11:09:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2022-08-19 20:14:15 +0200"
@@ -1079,6 +1129,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 05:52:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
     },
     "done": true
   },
@@ -1268,6 +1324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-08-21 12:42:13 +0200"
@@ -1403,6 +1465,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-08-20 05:52:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
     },
     "done": true
   },
@@ -1697,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-08-25 11:06:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-08-20 05:46:52 +0200"
@@ -1736,6 +1810,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 11:14:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-25 11:16:53 +0200"
     },
     "done": true
   },
