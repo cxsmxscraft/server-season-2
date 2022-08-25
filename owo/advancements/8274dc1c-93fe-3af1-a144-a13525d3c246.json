@@ -215,6 +215,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2022-08-19 20:14:41 +0200"
@@ -230,6 +242,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 11:14:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
     },
     "done": true
   },
@@ -313,6 +331,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2022-08-25 06:06:33 +0200",
+      "cooked_beef": "2022-08-25 06:25:28 +0200",
       "porkchop": "2022-08-21 11:59:58 +0200",
       "apple": "2022-08-19 20:44:32 +0200",
       "golden_apple": "2022-08-25 05:56:45 +0200",
@@ -573,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2022-08-19 20:36:08 +0200"
@@ -729,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2022-08-20 05:26:43 +0200"
@@ -882,6 +914,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-19 20:14:41 +0200"
@@ -948,6 +992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-08-19 20:14:15 +0200"
@@ -993,6 +1043,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-19 19:45:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
     },
     "done": true
   },
@@ -1266,6 +1322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2022-08-24 11:14:20 +0200"
@@ -1293,6 +1355,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-08-25 02:55:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
     },
     "done": true
   },
@@ -1437,6 +1505,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2022-08-19 20:45:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
     },
     "done": true
   },
@@ -1665,6 +1739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2022-08-19 20:07:34 +0200"
@@ -1731,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2022-08-19 20:15:34 +0200"
@@ -1740,6 +1826,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2022-08-24 11:14:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2022-08-25 06:29:19 +0200"
     },
     "done": true
   },
