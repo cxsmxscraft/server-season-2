@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-08-25 12:44:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-08-19 17:50:42 +0200"
@@ -1036,6 +1042,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-08-25 12:17:12 +0200",
       "minecraft:taiga": "2022-08-19 19:13:42 +0200",
       "minecraft:deep_ocean": "2022-08-19 19:09:10 +0200",
       "minecraft:windswept_hills": "2022-08-19 18:00:16 +0200",
@@ -1518,7 +1525,8 @@
       "apple": "2022-08-24 10:51:19 +0200",
       "bread": "2022-08-20 20:09:48 +0200",
       "rotten_flesh": "2022-08-19 18:00:26 +0200",
-      "cooked_chicken": "2022-08-19 18:07:33 +0200"
+      "cooked_chicken": "2022-08-19 18:07:33 +0200",
+      "carrot": "2022-08-25 12:23:01 +0200"
     },
     "done": false
   },
@@ -2455,6 +2463,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-08-20 18:57:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-08-25 12:44:27 +0200"
     },
     "done": true
   },
