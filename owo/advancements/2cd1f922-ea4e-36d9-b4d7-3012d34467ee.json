@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-08-25 08:13:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-17 15:35:37 +0200"
@@ -596,11 +602,13 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-08-19 17:16:43 +0200",
+      "minecraft:blaze": "2022-08-25 08:11:11 +0200",
       "minecraft:skeleton": "2022-08-17 15:14:49 +0200",
       "minecraft:ghast": "2022-08-20 02:24:03 +0200",
       "minecraft:spider": "2022-08-17 15:55:01 +0200",
       "minecraft:creeper": "2022-08-17 15:47:35 +0200",
       "minecraft:slime": "2022-08-19 20:08:17 +0200",
+      "minecraft:wither_skeleton": "2022-08-25 08:10:40 +0200",
       "minecraft:cave_spider": "2022-08-19 19:04:40 +0200",
       "minecraft:piglin": "2022-08-20 02:37:41 +0200",
       "minecraft:enderman": "2022-08-17 15:09:57 +0200",
@@ -609,6 +617,12 @@
       "minecraft:zombie_villager": "2022-08-21 17:54:29 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2022-08-25 08:25:24 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -757,6 +771,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2022-08-17 15:14:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-08-25 08:07:45 +0200"
     },
     "done": true
   },
@@ -1179,6 +1199,7 @@
       "minecraft:flower_forest": "2022-08-21 16:25:05 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-21 18:25:14 +0200",
       "minecraft:meadow": "2022-08-21 17:33:21 +0200",
+      "minecraft:savanna": "2022-08-25 07:59:29 +0200",
       "minecraft:plains": "2022-08-17 14:59:08 +0200"
     },
     "done": false
@@ -1324,6 +1345,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-08-17 15:05:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-08-25 08:04:28 +0200"
     },
     "done": true
   },
@@ -1545,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-08-25 08:25:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-19 17:10:33 +0200"
@@ -1566,6 +1599,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2022-08-20 02:24:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2022-08-25 08:25:24 +0200"
     },
     "done": true
   },
@@ -2268,6 +2307,18 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-08-25 08:09:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-08-25 08:04:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-08-17 14:59:12 +0200"
@@ -2412,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-08-25 08:13:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-08-17 14:54:01 +0200"
@@ -2460,6 +2517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-08-25 08:07:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-08-17 15:00:35 +0200"
@@ -2493,6 +2556,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2022-08-20 02:54:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-08-25 08:07:45 +0200"
     },
     "done": true
   },
