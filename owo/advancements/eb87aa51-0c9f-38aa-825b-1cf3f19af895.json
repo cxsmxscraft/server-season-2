@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-08-26 11:53:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-08-17 14:41:38 +0200"
@@ -635,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-08-26 11:53:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-17 14:38:59 +0200"
@@ -771,6 +783,7 @@
       "minecraft:phantom": "2022-08-25 09:57:58 +0200",
       "minecraft:zombified_piglin": "2022-08-21 13:20:31 +0200",
       "minecraft:wither_skeleton": "2022-08-23 07:27:43 +0200",
+      "minecraft:husk": "2022-08-26 11:51:26 +0200",
       "minecraft:piglin": "2022-08-25 08:10:10 +0200",
       "minecraft:enderman": "2022-08-23 11:37:06 +0200",
       "minecraft:zombie": "2022-08-17 14:47:29 +0200",
@@ -1036,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-08-26 11:36:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2022-08-17 14:45:25 +0200"
@@ -1135,6 +1154,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2022-08-20 15:43:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2022-08-26 11:53:20 +0200"
     },
     "done": true
   },
@@ -1558,6 +1583,7 @@
       "minecraft:deep_ocean": "2022-08-21 14:27:49 +0200",
       "minecraft:birch_forest": "2022-08-21 14:30:22 +0200",
       "minecraft:windswept_hills": "2022-08-17 14:38:48 +0200",
+      "minecraft:savanna_plateau": "2022-08-26 11:53:33 +0200",
       "minecraft:beach": "2022-08-17 14:37:02 +0200",
       "minecraft:dark_forest": "2022-08-21 14:30:12 +0200",
       "minecraft:river": "2022-08-17 14:36:49 +0200",
@@ -2945,6 +2971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2022-08-26 11:23:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-17 14:37:06 +0200"
@@ -3068,6 +3100,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-08-17 15:05:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-08-26 11:36:20 +0200"
     },
     "done": true
   },
@@ -3362,6 +3400,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-08-22 19:05:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-08-26 11:53:20 +0200"
     },
     "done": true
   },
