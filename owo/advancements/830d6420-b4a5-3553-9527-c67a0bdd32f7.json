@@ -596,6 +596,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-08-26 07:53:01 +0200",
+      "minecraft:skeleton": "2022-08-26 20:44:49 +0200",
       "minecraft:spider": "2022-08-21 14:39:36 +0200",
       "minecraft:creeper": "2022-08-21 12:12:47 +0200",
       "minecraft:slime": "2022-08-19 18:22:50 +0200",
@@ -1378,6 +1379,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-08-26 20:11:27 +0200",
       "minecraft:nether_wastes": "2022-08-20 13:38:01 +0200"
     },
     "done": false
