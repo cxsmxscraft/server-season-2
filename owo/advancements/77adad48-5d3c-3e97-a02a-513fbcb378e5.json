@@ -1517,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2022-08-26 16:58:20 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-19 20:40:01 +0200"
@@ -1531,6 +1537,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-08-26 16:35:33 +0200",
+      "minecraft:taiga": "2022-08-26 16:35:53 +0200",
+      "minecraft:deep_ocean": "2022-08-26 16:42:32 +0200",
       "minecraft:eroded_badlands": "2022-08-19 13:13:25 +0200",
       "minecraft:sunflower_plains": "2022-08-19 16:38:27 +0200",
       "minecraft:birch_forest": "2022-08-19 11:51:17 +0200",
@@ -1540,6 +1549,7 @@
       "minecraft:savanna_plateau": "2022-08-19 16:59:10 +0200",
       "minecraft:beach": "2022-08-19 11:37:46 +0200",
       "minecraft:stony_peaks": "2022-08-19 17:00:58 +0200",
+      "minecraft:dark_forest": "2022-08-26 16:41:59 +0200",
       "minecraft:mangrove_swamp": "2022-08-19 12:16:54 +0200",
       "minecraft:sparse_jungle": "2022-08-19 12:15:27 +0200",
       "minecraft:river": "2022-08-19 11:37:32 +0200",
@@ -1547,15 +1557,20 @@
       "minecraft:stony_shore": "2022-08-19 16:33:35 +0200",
       "minecraft:dripstone_caves": "2022-08-19 13:00:03 +0200",
       "minecraft:swamp": "2022-08-19 11:37:47 +0200",
+      "minecraft:cold_ocean": "2022-08-26 16:34:02 +0200",
       "minecraft:forest": "2022-08-19 11:44:02 +0200",
+      "minecraft:deep_cold_ocean": "2022-08-26 16:34:07 +0200",
       "minecraft:desert": "2022-08-19 19:33:00 +0200",
       "minecraft:windswept_forest": "2022-08-19 11:54:09 +0200",
       "minecraft:jungle": "2022-08-19 12:21:39 +0200",
       "minecraft:ocean": "2022-08-19 14:45:05 +0200",
+      "minecraft:old_growth_spruce_taiga": "2022-08-26 16:35:08 +0200",
       "minecraft:windswept_savanna": "2022-08-19 12:19:21 +0200",
+      "minecraft:warm_ocean": "2022-08-26 16:31:41 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-08-21 20:03:59 +0200",
       "minecraft:flower_forest": "2022-08-19 11:39:10 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-19 12:15:19 +0200",
+      "minecraft:meadow": "2022-08-26 16:36:57 +0200",
       "minecraft:savanna": "2022-08-19 12:25:10 +0200",
       "minecraft:plains": "2022-08-19 11:37:56 +0200"
     },
@@ -1790,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-08-26 16:53:06 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2022-08-19 11:40:57 +0200"
@@ -1919,6 +1940,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-19 14:47:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2022-08-26 16:58:20 +0200"
     },
     "done": true
   },
@@ -2801,6 +2828,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2022-08-25 07:37:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2022-08-26 16:58:20 +0200"
     },
     "done": true
   },
