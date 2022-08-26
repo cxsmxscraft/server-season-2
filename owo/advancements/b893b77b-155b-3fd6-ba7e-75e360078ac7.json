@@ -655,6 +655,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-08-26 09:11:57 +0200",
       "minecraft:skeleton": "2022-08-19 13:20:24 +0200",
       "minecraft:spider": "2022-08-19 13:21:38 +0200",
       "minecraft:creeper": "2022-08-21 12:32:56 +0200",
@@ -770,6 +771,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2022-08-20 13:49:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-08-26 09:11:57 +0200"
     },
     "done": true
   },
@@ -2866,6 +2873,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-08-22 17:16:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2022-08-26 08:57:02 +0200"
     },
     "done": true
   },
