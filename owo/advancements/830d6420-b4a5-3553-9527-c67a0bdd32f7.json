@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2022-08-27 08:12:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-08-19 16:16:07 +0200"
@@ -1311,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2022-08-27 08:30:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2022-08-20 16:40:10 +0200"
@@ -1380,9 +1392,12 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-08-26 20:11:27 +0200",
-      "minecraft:nether_wastes": "2022-08-20 13:38:01 +0200"
+      "minecraft:nether_wastes": "2022-08-20 13:38:01 +0200",
+      "minecraft:soul_sand_valley": "2022-08-27 08:20:27 +0200",
+      "minecraft:basalt_deltas": "2022-08-27 08:21:00 +0200",
+      "minecraft:warped_forest": "2022-08-27 08:25:19 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
@@ -1612,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-08-27 08:12:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-17 15:02:41 +0200"
@@ -1627,6 +1648,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-20 08:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2022-08-27 08:12:38 +0200"
     },
     "done": true
   },
@@ -2640,6 +2667,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2022-08-25 12:00:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2022-08-27 08:49:50 +0200"
     },
     "done": true
   },
