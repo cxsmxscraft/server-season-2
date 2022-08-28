@@ -774,6 +774,7 @@
       "minecraft:skeleton": "2022-08-19 12:03:29 +0200",
       "minecraft:ghast": "2022-08-26 20:50:27 +0200",
       "minecraft:hoglin": "2022-08-20 09:42:27 +0200",
+      "minecraft:vindicator": "2022-08-28 13:47:36 +0200",
       "minecraft:spider": "2022-08-19 12:59:55 +0200",
       "minecraft:creeper": "2022-08-19 13:06:42 +0200",
       "minecraft:slime": "2022-08-19 12:01:09 +0200",
@@ -808,6 +809,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2022-08-21 17:16:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2022-08-28 13:50:29 +0200"
     },
     "done": true
   },
@@ -1366,6 +1373,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2022-08-21 06:09:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2022-08-28 13:50:29 +0200"
     },
     "done": true
   },
@@ -2536,6 +2549,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-08-19 13:08:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2022-08-28 13:50:29 +0200"
     },
     "done": true
   },
