@@ -1599,6 +1599,7 @@
       "minecraft:beach": "2022-08-17 14:37:02 +0200",
       "minecraft:dark_forest": "2022-08-21 14:30:12 +0200",
       "minecraft:river": "2022-08-17 14:36:49 +0200",
+      "minecraft:lukewarm_ocean": "2022-08-28 07:42:07 +0200",
       "minecraft:stony_shore": "2022-08-21 14:29:59 +0200",
       "minecraft:dripstone_caves": "2022-08-20 13:26:58 +0200",
       "minecraft:swamp": "2022-08-17 14:37:12 +0200",
@@ -1790,6 +1791,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2022-08-17 16:02:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2022-08-28 07:48:39 +0200"
     },
     "done": true
   },
