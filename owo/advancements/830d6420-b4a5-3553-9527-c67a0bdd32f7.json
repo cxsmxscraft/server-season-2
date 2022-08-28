@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-08-28 08:10:48 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2022-08-17 14:56:40 +0200"
@@ -476,6 +482,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-20 08:52:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-08-28 08:37:12 +0200"
     },
     "done": true
   },
@@ -722,6 +734,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2022-08-21 14:54:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-08-28 08:10:48 +0200"
     },
     "done": true
   },
@@ -1428,6 +1446,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-20 18:37:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-08-28 08:10:48 +0200"
     },
     "done": true
   },
@@ -2746,6 +2770,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-08-20 08:57:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-08-28 08:33:37 +0200"
     },
     "done": true
   },
