@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2022-08-28 14:07:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-08-19 11:39:54 +0200"
@@ -1424,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-08-28 14:18:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-19 20:40:01 +0200"
@@ -1840,7 +1852,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-08-20 09:38:35 +0200",
-      "minecraft:nether_wastes": "2022-08-21 10:57:06 +0200"
+      "minecraft:nether_wastes": "2022-08-21 10:57:06 +0200",
+      "minecraft:soul_sand_valley": "2022-08-28 14:31:36 +0200"
     },
     "done": false
   },
@@ -2927,6 +2940,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2022-08-19 11:40:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2022-08-28 14:10:08 +0200"
     },
     "done": true
   },

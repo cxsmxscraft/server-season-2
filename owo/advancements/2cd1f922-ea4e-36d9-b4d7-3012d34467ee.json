@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-08-28 14:39:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-08-17 15:05:32 +0200"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2022-08-17 15:35:45 +0200"
@@ -796,6 +808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-19 17:10:33 +0200"
@@ -976,6 +994,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2022-08-28 14:23:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2022-08-17 15:42:48 +0200"
@@ -1099,6 +1129,12 @@
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2022-08-28 13:02:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
     },
     "done": true
   },
@@ -1661,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-17 14:54:57 +0200"
@@ -1718,6 +1760,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2022-08-25 07:30:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
     },
     "done": true
   },
@@ -2053,6 +2101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2022-08-17 15:33:07 +0200"
@@ -2156,12 +2210,18 @@
       "cooked_beef": "2022-08-19 17:31:18 +0200",
       "baked_potato": "2022-08-19 18:19:55 +0200",
       "apple": "2022-08-17 15:16:04 +0200",
+      "spider_eye": "2022-08-28 14:43:03 +0200",
       "potato": "2022-08-26 12:20:34 +0200",
+      "cooked_cod": "2022-08-28 14:43:29 +0200",
       "bread": "2022-08-19 17:23:30 +0200",
       "golden_apple": "2022-08-19 18:00:01 +0200",
       "rotten_flesh": "2022-08-17 15:50:26 +0200",
       "suspicious_stew": "2022-08-20 02:04:39 +0200",
-      "cooked_chicken": "2022-08-17 15:05:50 +0200"
+      "glow_berries": "2022-08-28 14:44:02 +0200",
+      "salmon": "2022-08-28 14:45:33 +0200",
+      "cooked_chicken": "2022-08-17 15:05:50 +0200",
+      "cooked_salmon": "2022-08-28 14:43:07 +0200",
+      "carrot": "2022-08-28 14:43:49 +0200"
     },
     "done": false
   },
@@ -2258,6 +2318,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-20 02:18:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
     },
     "done": true
   },
@@ -2386,6 +2452,12 @@
       "has_smooth_stone": "2022-08-17 15:42:16 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2022-08-28 14:30:04 +0200"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
@@ -2708,6 +2780,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2022-08-19 19:28:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
     },
     "done": true
   },
@@ -3053,6 +3137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2022-08-28 14:15:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2022-08-19 19:28:41 +0200"
@@ -3122,6 +3212,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-08-17 14:54:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
     },
     "done": true
   },
@@ -3515,6 +3611,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2022-08-28 14:30:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-17 15:40:11 +0200"
@@ -3554,6 +3656,18 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-19 19:28:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2022-08-28 14:44:54 +0200"
     },
     "done": true
   },
