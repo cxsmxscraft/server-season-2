@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2022-08-30 00:47:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2022-08-29 16:07:00 +0200"
@@ -1035,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2022-08-30 00:47:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2022-08-20 15:03:15 +0200"
@@ -1377,6 +1389,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-08-30 00:16:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-08-20 12:45:29 +0200"
@@ -1603,6 +1621,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2022-08-20 19:31:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2022-08-30 00:47:51 +0200"
     },
     "done": true
   },
@@ -2099,6 +2123,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2022-08-30 00:54:51 +0200",
       "minecraft:sheep": "2022-08-23 16:51:32 +0200"
     },
     "done": false
@@ -2472,6 +2497,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-08-20 12:43:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2022-08-30 00:58:18 +0200"
     },
     "done": true
   },
@@ -2853,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2022-08-30 00:47:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-08-21 22:22:30 +0200"
@@ -3107,7 +3144,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:calico": "2022-08-29 23:06:22 +0200"
+      "minecraft:calico": "2022-08-29 23:06:22 +0200",
+      "minecraft:siamese": "2022-08-30 00:52:39 +0200"
     },
     "done": false
   },
