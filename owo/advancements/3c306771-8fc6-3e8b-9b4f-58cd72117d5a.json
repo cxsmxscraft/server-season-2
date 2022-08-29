@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2022-08-27 01:44:42 +0200"
@@ -367,6 +373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 14:31:46 +0200"
@@ -430,6 +442,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-28 20:39:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
     },
     "done": true
   },
@@ -538,6 +556,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2022-08-28 21:20:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
     },
     "done": true
   },
@@ -1054,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-27 01:44:42 +0200"
@@ -1090,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2022-08-25 14:21:25 +0200"
@@ -1099,6 +1135,18 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 14:31:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-29 21:02:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2022-08-29 21:02:26 +0200"
     },
     "done": true
   },
@@ -1192,9 +1240,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-29 21:02:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2022-08-25 14:31:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
     },
     "done": true
   },
@@ -1237,6 +1297,12 @@
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2022-08-28 20:45:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2022-08-29 21:07:34 +0200"
     },
     "done": true
   },
@@ -1402,6 +1468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-24 22:30:12 +0200"
@@ -1444,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-08-25 14:30:07 +0200"
@@ -1470,18 +1548,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2022-08-29 20:55:21 +0200",
       "minecraft:deep_ocean": "2022-08-25 14:21:57 +0200",
+      "minecraft:frozen_river": "2022-08-29 20:59:43 +0200",
       "minecraft:sunflower_plains": "2022-08-25 14:24:09 +0200",
       "minecraft:birch_forest": "2022-08-25 14:19:25 +0200",
       "minecraft:windswept_hills": "2022-08-27 00:12:11 +0200",
       "minecraft:beach": "2022-08-24 22:07:22 +0200",
       "minecraft:dark_forest": "2022-08-27 00:18:50 +0200",
       "minecraft:river": "2022-08-24 22:06:59 +0200",
+      "minecraft:lukewarm_ocean": "2022-08-29 20:46:06 +0200",
+      "minecraft:snowy_plains": "2022-08-29 20:59:01 +0200",
       "minecraft:swamp": "2022-08-24 22:07:23 +0200",
       "minecraft:grove": "2022-08-27 00:19:17 +0200",
       "minecraft:forest": "2022-08-25 14:19:17 +0200",
       "minecraft:lush_caves": "2022-08-27 02:30:57 +0200",
       "minecraft:ocean": "2022-08-25 14:18:23 +0200",
+      "minecraft:snowy_beach": "2022-08-29 20:59:39 +0200",
+      "minecraft:windswept_savanna": "2022-08-29 20:48:10 +0200",
+      "minecraft:deep_lukewarm_ocean": "2022-08-29 20:46:33 +0200",
       "minecraft:flower_forest": "2022-08-27 00:12:28 +0200",
       "minecraft:frozen_peaks": "2022-08-27 00:19:36 +0200",
       "minecraft:old_growth_birch_forest": "2022-08-27 00:18:06 +0200",
@@ -1523,6 +1608,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-08-25 14:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-08-29 21:02:26 +0200"
     },
     "done": true
   },
@@ -1601,6 +1692,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-25 14:30:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2022-08-29 20:40:21 +0200"
     },
     "done": true
   },
@@ -1697,6 +1794,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2022-08-28 20:45:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2022-08-29 21:07:34 +0200"
     },
     "done": true
   },
