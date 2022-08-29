@@ -1097,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2022-08-29 18:06:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-20 19:56:47 +0200"
@@ -2019,6 +2025,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2022-08-28 08:14:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-08-29 18:09:22 +0200"
     },
     "done": true
   },
@@ -4056,7 +4068,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "minecraft:all_black": "2022-08-29 10:57:00 +0200"
+      "minecraft:all_black": "2022-08-29 10:57:00 +0200",
+      "minecraft:red": "2022-08-29 18:15:11 +0200"
     },
     "done": false
   },
