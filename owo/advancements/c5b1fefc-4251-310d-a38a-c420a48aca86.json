@@ -1007,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-08-30 11:20:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-08-23 11:14:21 +0200"
@@ -1456,7 +1462,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2022-08-20 13:37:59 +0200"
+      "minecraft:nether_wastes": "2022-08-20 13:37:59 +0200",
+      "minecraft:warped_forest": "2022-08-30 11:31:28 +0200"
     },
     "done": false
   },
@@ -2228,6 +2235,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-08-20 12:38:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-08-30 11:20:07 +0200"
     },
     "done": true
   },

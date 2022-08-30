@@ -4177,6 +4177,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:persian": "2022-08-30 11:14:18 +0200",
       "minecraft:all_black": "2022-08-29 10:57:00 +0200",
       "minecraft:red": "2022-08-29 18:15:11 +0200"
     },
