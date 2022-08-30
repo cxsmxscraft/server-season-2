@@ -179,9 +179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-08-30 09:51:21 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-08-17 14:54:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-08-30 09:00:33 +0200"
     },
     "done": true
   },
@@ -266,6 +278,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2022-08-28 13:02:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-30 09:47:09 +0200"
     },
     "done": true
   },
@@ -440,6 +458,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-08-17 14:52:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-08-30 09:38:44 +0200"
     },
     "done": true
   },
@@ -756,6 +780,7 @@
       "minecraft:skeleton": "2022-08-17 15:14:49 +0200",
       "minecraft:ghast": "2022-08-20 02:24:03 +0200",
       "minecraft:hoglin": "2022-08-28 12:51:07 +0200",
+      "minecraft:magma_cube": "2022-08-30 09:51:20 +0200",
       "minecraft:spider": "2022-08-17 15:55:01 +0200",
       "minecraft:creeper": "2022-08-17 15:47:35 +0200",
       "minecraft:slime": "2022-08-19 20:08:17 +0200",
@@ -1567,6 +1592,7 @@
       "minecraft:birch_forest": "2022-08-17 15:33:49 +0200",
       "minecraft:windswept_hills": "2022-08-17 15:00:45 +0200",
       "minecraft:beach": "2022-08-17 14:52:26 +0200",
+      "minecraft:mangrove_swamp": "2022-08-30 08:40:36 +0200",
       "minecraft:river": "2022-08-17 14:51:45 +0200",
       "minecraft:lukewarm_ocean": "2022-08-28 08:31:41 +0200",
       "minecraft:stony_shore": "2022-08-21 16:22:34 +0200",
@@ -1712,6 +1738,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-17 14:54:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-08-30 08:20:03 +0200"
     },
     "done": true
   },
@@ -1918,6 +1950,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2022-08-20 02:20:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-08-30 09:38:44 +0200"
     },
     "done": true
   },
@@ -2461,6 +2499,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2022-08-30 08:07:04 +0200",
       "minecraft:wolf": "2022-08-28 14:30:04 +0200"
     },
     "done": false
@@ -3341,6 +3380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-08-30 09:11:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2022-08-17 15:00:35 +0200"
@@ -3686,6 +3731,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-08-19 19:49:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-08-30 09:11:50 +0200"
     },
     "done": true
   },
