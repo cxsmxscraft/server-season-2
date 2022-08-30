@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-08-30 07:46:25 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-08-19 16:23:19 +0200"
@@ -800,6 +806,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2022-08-17 16:04:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2022-08-30 07:46:25 +0200"
     },
     "done": true
   },
@@ -1756,6 +1768,7 @@
       "sweet_berries": "2022-08-22 16:11:13 +0200",
       "cooked_beef": "2022-08-19 16:02:22 +0200",
       "beef": "2022-08-17 16:02:43 +0200",
+      "baked_potato": "2022-08-30 07:30:23 +0200",
       "porkchop": "2022-08-19 12:55:17 +0200",
       "apple": "2022-08-19 19:18:56 +0200",
       "cooked_cod": "2022-08-27 08:21:58 +0200",
@@ -2254,6 +2267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-08-30 07:25:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-08-20 18:35:53 +0200"
@@ -2689,6 +2708,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2022-08-19 16:23:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2022-08-30 07:46:25 +0200"
     },
     "done": true
   },
