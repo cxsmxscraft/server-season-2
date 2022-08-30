@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2022-08-30 16:06:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2022-08-27 00:12:53 +0200"
@@ -337,8 +343,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2022-08-30 16:11:55 +0200",
       "baked_potato": "2022-08-27 00:33:51 +0200",
+      "beetroot_soup": "2022-08-30 16:06:39 +0200",
       "potato": "2022-08-27 00:14:32 +0200",
+      "glow_berries": "2022-08-30 16:03:03 +0200",
       "carrot": "2022-08-25 14:21:36 +0200"
     },
     "done": false
@@ -1559,6 +1568,7 @@
       "minecraft:river": "2022-08-24 22:06:59 +0200",
       "minecraft:lukewarm_ocean": "2022-08-29 20:46:06 +0200",
       "minecraft:snowy_plains": "2022-08-29 20:59:01 +0200",
+      "minecraft:snowy_taiga": "2022-08-30 15:54:06 +0200",
       "minecraft:swamp": "2022-08-24 22:07:23 +0200",
       "minecraft:grove": "2022-08-27 00:19:17 +0200",
       "minecraft:forest": "2022-08-25 14:19:17 +0200",

@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-08-30 15:57:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2022-08-19 20:04:12 +0200"
@@ -943,6 +949,7 @@
       "minecraft:skeleton": "2022-08-20 05:45:43 +0200",
       "minecraft:spider": "2022-08-20 11:44:58 +0200",
       "minecraft:creeper": "2022-08-24 11:17:39 +0200",
+      "minecraft:zombified_piglin": "2022-08-30 16:01:04 +0200",
       "minecraft:zombie": "2022-08-20 05:50:54 +0200"
     },
     "done": false
@@ -1835,6 +1842,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-19 20:36:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-08-30 15:57:27 +0200"
     },
     "done": true
   },
