@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-31 18:58:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-20 20:19:27 +0200"
@@ -1924,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-08-31 19:11:54 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-20 12:45:29 +0200"
@@ -1975,6 +1987,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2022-08-20 13:19:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2022-08-31 19:11:54 +0200"
     },
     "done": true
   },
@@ -2220,6 +2238,7 @@
       "bread": "2022-08-20 19:34:24 +0200",
       "rotten_flesh": "2022-08-20 12:49:28 +0200",
       "melon_slice": "2022-08-20 20:00:27 +0200",
+      "cooked_rabbit": "2022-08-31 19:13:45 +0200",
       "cooked_chicken": "2022-08-31 16:37:59 +0200"
     },
     "done": false
@@ -2708,6 +2727,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-20 12:59:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2022-08-31 19:57:47 +0200"
     },
     "done": true
   },
