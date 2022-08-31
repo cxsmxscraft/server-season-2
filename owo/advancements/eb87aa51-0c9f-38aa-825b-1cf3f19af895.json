@@ -1499,6 +1499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-08-31 15:36:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-08-28 09:06:22 +0200"
@@ -3143,6 +3149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-08-31 15:36:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-08-19 17:36:47 +0200"
@@ -4177,6 +4189,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:siamese": "2022-08-31 15:43:08 +0200",
       "minecraft:persian": "2022-08-30 11:14:18 +0200",
       "minecraft:all_black": "2022-08-29 10:57:00 +0200",
       "minecraft:red": "2022-08-29 18:15:11 +0200"

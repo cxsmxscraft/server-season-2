@@ -1432,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-08-31 14:22:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-08-19 12:06:43 +0200"
@@ -2065,7 +2071,8 @@
     "criteria": {
       "minecraft:pig": "2022-08-22 17:24:02 +0200",
       "minecraft:sheep": "2022-08-21 17:29:34 +0200",
-      "minecraft:cow": "2022-08-21 17:29:33 +0200"
+      "minecraft:cow": "2022-08-21 17:29:33 +0200",
+      "minecraft:bee": "2022-08-31 14:23:47 +0200"
     },
     "done": false
   },
